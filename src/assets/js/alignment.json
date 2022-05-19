@@ -1,0 +1,3878 @@
+﻿{
+	"graph": {
+		"nodes": [
+			{
+				"id": 539,
+				"label": "judicial interpretation",
+				"x": 0.1188,
+				"y": 0.0538,
+				"cluster": 11,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.8889
+				}
+			},
+			{
+				"id": 1109,
+				"label": "《关于办理受贿刑事案件适用法律若干问题的意见》",
+				"x": 0.0348,
+				"y": -0.9596,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000
+				}
+			},
+			{
+				"id": 1159,
+				"label": "《刑法修正案(九)》",
+				"x": 0.6143,
+				"y": -0.0139,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.3333
+				}
+			},
+			{
+				"id": 1162,
+				"label": "《刑法修正案(十一)》",
+				"x": 0.9725,
+				"y": -1.0467,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 1237,
+				"label": "中国刑法",
+				"x": -0.0684,
+				"y": 0.8582,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5714
+				}
+			},
+			{
+				"id": 1253,
+				"label": "为他人谋取利益",
+				"x": 0.0997,
+				"y": -0.7555,
+				"cluster": 7,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.7500
+				}
+			},
+			{
+				"id": 1305,
+				"label": "交通肇事",
+				"x": -0.2238,
+				"y": 0.6972,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.5000
+				}
+			},
+			{
+				"id": 1308,
+				"label": "交通肇事罪",
+				"x": -0.1754,
+				"y": 0.7124,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.2000
+				}
+			},
+			{
+				"id": 1349,
+				"label": "以非法占有为目的",
+				"x": -0.9347,
+				"y": -0.0948,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000
+				}
+			},
+			{
+				"id": 1397,
+				"label": "侵犯公民个人信息罪",
+				"x": 0.5624,
+				"y": 0.3744,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2000
+				}
+			},
+			{
+				"id": 1398,
+				"label": "侵犯商业秘密罪",
+				"x": 0.6233,
+				"y": -0.5831,
+				"cluster": 5,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.1000
+				}
+			},
+			{
+				"id": 1402,
+				"label": "侵犯知识产权犯罪",
+				"x": 0.9421,
+				"y": -0.3189,
+				"cluster": 5,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 38.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.5833
+				}
+			},
+			{
+				"id": 1405,
+				"label": "侵犯著作权罪",
+				"x": 0.9141,
+				"y": -0.4099,
+				"cluster": 5,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 56.0000,
+					"Occurrences": 20.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.6000
+				}
+			},
+			{
+				"id": 1444,
+				"label": "假冒注册商标罪",
+				"x": 1.2440,
+				"y": -0.4145,
+				"cluster": 5,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 32.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.4444
+				}
+			},
+			{
+				"id": 1457,
+				"label": "免予刑事处罚",
+				"x": -0.2846,
+				"y": 0.4523,
+				"cluster": 8,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.2500
+				}
+			},
+			{
+				"id": 1468,
+				"label": "入罪标准",
+				"x": 0.0284,
+				"y": -0.2143,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0000
+				}
+			},
+			{
+				"id": 1498,
+				"label": "公民个人信息",
+				"x": 0.6368,
+				"y": 0.3812,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000
+				}
+			},
+			{
+				"id": 1504,
+				"label": "共同犯罪",
+				"x": -0.0820,
+				"y": -0.2733,
+				"cluster": 7,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.3750
+				}
+			},
+			{
+				"id": 1513,
+				"label": "关于办理侵犯知识产权刑事案件具体应用法律若干问题的解释",
+				"x": 1.1600,
+				"y": -0.4804,
+				"cluster": 5,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.6000
+				}
+			},
+			{
+				"id": 1516,
+				"label": "关于办理环境污染刑事案件适用法律若干问题的解释",
+				"x": -0.2396,
+				"y": -0.3397,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.6000
+				}
+			},
+			{
+				"id": 1527,
+				"label": "其他直接责任人员",
+				"x": 0.1062,
+				"y": -0.2116,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.7500
+				}
+			},
+			{
+				"id": 1575,
+				"label": "刑事保护",
+				"x": 0.0855,
+				"y": -0.0613,
+				"cluster": 10,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.2222
+				}
+			},
+			{
+				"id": 1594,
+				"label": "刑事司法解释",
+				"x": -0.8460,
+				"y": -0.4922,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.8000
+				}
+			},
+			{
+				"id": 1597,
+				"label": "刑事和解",
+				"x": -0.0010,
+				"y": 0.3401,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000
+				}
+			},
+			{
+				"id": 1611,
+				"label": "刑事政策",
+				"x": -0.0122,
+				"y": 0.6061,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 21.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.2857
+				}
+			},
+			{
+				"id": 1625,
+				"label": "刑事法治",
+				"x": -0.0421,
+				"y": 0.4364,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.2000
+				}
+			},
+			{
+				"id": 1637,
+				"label": "刑事立法",
+				"x": -0.6960,
+				"y": 0.2521,
+				"cluster": 9,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000
+				}
+			},
+			{
+				"id": 1669,
+				"label": "刑事附带民事诉讼",
+				"x": -0.1376,
+				"y": 0.1765,
+				"cluster": 4,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.7500
+				}
+			},
+			{
+				"id": 1672,
+				"label": "刑民交叉",
+				"x": -0.7468,
+				"y": -0.2012,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.9091
+				}
+			},
+			{
+				"id": 1680,
+				"label": "刑法",
+				"x": -0.2093,
+				"y": 0.2445,
+				"cluster": 10,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 21.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.8571
+				}
+			},
+			{
+				"id": 1689,
+				"label": "刑法修正案",
+				"x": 0.6880,
+				"y": -0.0593,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6000
+				}
+			},
+			{
+				"id": 1694,
+				"label": "刑法修正案(六)",
+				"x": 0.3050,
+				"y": -0.5566,
+				"cluster": 7,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.2500
+				}
+			},
+			{
+				"id": 1696,
+				"label": "刑法典",
+				"x": 0.5789,
+				"y": -0.1723,
+				"cluster": 4,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.1250
+				}
+			},
+			{
+				"id": 1735,
+				"label": "刑法立法",
+				"x": 0.6950,
+				"y": -0.0903,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7500
+				}
+			},
+			{
+				"id": 1742,
+				"label": "刑法规制",
+				"x": 0.2164,
+				"y": 0.7986,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.2857
+				}
+			},
+			{
+				"id": 1778,
+				"label": "利用职务上的便利",
+				"x": -0.0631,
+				"y": -0.9513,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.2500
+				}
+			},
+			{
+				"id": 1814,
+				"label": "医疗事故罪",
+				"x": -0.4997,
+				"y": -0.2467,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.7500
+				}
+			},
+			{
+				"id": 1835,
+				"label": "单位犯罪",
+				"x": -0.3298,
+				"y": -0.0236,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.1667
+				}
+			},
+			{
+				"id": 1888,
+				"label": "受贿罪",
+				"x": -0.1336,
+				"y": -0.5994,
+				"cluster": 7,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0769
+				}
+			},
+			{
+				"id": 1921,
+				"label": "司法工作人员",
+				"x": -0.3065,
+				"y": -0.6213,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.8000
+				}
+			},
+			{
+				"id": 1932,
+				"label": "司法解释",
+				"x": -0.1693,
+				"y": 0.0960,
+				"cluster": 11,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 34.0000,
+					"Occurrences": 29.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.1379
+				}
+			},
+			{
+				"id": 1935,
+				"label": "司法认定",
+				"x": 0.4591,
+				"y": 0.5303,
+				"cluster": 6,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.6000
+				}
+			},
+			{
+				"id": 1981,
+				"label": "商业秘密",
+				"x": -0.2974,
+				"y": 0.2286,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.1000
+				}
+			},
+			{
+				"id": 2011,
+				"label": "国家工作人员",
+				"x": 0.0449,
+				"y": -0.8482,
+				"cluster": 7,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 19.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.6250
+				}
+			},
+			{
+				"id": 2013,
+				"label": "国家机关工作人员",
+				"x": 0.1395,
+				"y": -0.6241,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.0000
+				}
+			},
+			{
+				"id": 2054,
+				"label": "复制发行",
+				"x": 1.1828,
+				"y": -0.6343,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.7500
+				}
+			},
+			{
+				"id": 2121,
+				"label": "定罪量刑",
+				"x": -0.4120,
+				"y": 0.1698,
+				"cluster": 9,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.8750
+				}
+			},
+			{
+				"id": 2123,
+				"label": "定罪量刑标准",
+				"x": 0.2944,
+				"y": 0.0489,
+				"cluster": 6,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 37.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.3889
+				}
+			},
+			{
+				"id": 2177,
+				"label": "宽严相济",
+				"x": 0.0809,
+				"y": 0.9083,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.8636
+				}
+			},
+			{
+				"id": 2179,
+				"label": "宽严相济刑事政策",
+				"x": -0.1404,
+				"y": 0.6001,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.8571
+				}
+			},
+			{
+				"id": 2189,
+				"label": "寻衅滋事罪",
+				"x": 0.0363,
+				"y": 0.5282,
+				"cluster": 8,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.2857
+				}
+			},
+			{
+				"id": 2264,
+				"label": "徇私枉法罪",
+				"x": -0.2686,
+				"y": -0.7042,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.7500
+				}
+			},
+			{
+				"id": 2267,
+				"label": "徇私舞弊不移交刑事案件罪",
+				"x": -0.2370,
+				"y": -0.6412,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.0000
+				}
+			},
+			{
+				"id": 2286,
+				"label": "恢复性司法",
+				"x": -0.0352,
+				"y": 0.2172,
+				"cluster": 4,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.5000
+				}
+			},
+			{
+				"id": 2287,
+				"label": "恶势力",
+				"x": 0.6361,
+				"y": 0.9452,
+				"cluster": 12,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			},
+			{
+				"id": 2292,
+				"label": "恶意透支",
+				"x": -0.8075,
+				"y": -0.1652,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.4000
+				}
+			},
+			{
+				"id": 2342,
+				"label": "扫黑除恶",
+				"x": 0.6482,
+				"y": 0.8780,
+				"cluster": 12,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.2000
+				}
+			},
+			{
+				"id": 2353,
+				"label": "抢劫罪",
+				"x": -0.1577,
+				"y": 0.4373,
+				"cluster": 8,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2005.8333
+				}
+			},
+			{
+				"id": 2385,
+				"label": "推定",
+				"x": -0.8242,
+				"y": 0.1040,
+				"cluster": 9,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.5000
+				}
+			},
+			{
+				"id": 2441,
+				"label": "数额标准",
+				"x": -0.2488,
+				"y": 0.1285,
+				"cluster": 8,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.4286
+				}
+			},
+			{
+				"id": 2442,
+				"label": "数额犯",
+				"x": -0.5749,
+				"y": -0.3362,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0000
+				}
+			},
+			{
+				"id": 2447,
+				"label": "敲诈勒索罪",
+				"x": 0.1463,
+				"y": 0.6476,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000
+				}
+			},
+			{
+				"id": 2509,
+				"label": "未成年人",
+				"x": 0.1718,
+				"y": 0.8977,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2006.7143
+				}
+			},
+			{
+				"id": 2511,
+				"label": "未成年人刑事案件",
+				"x": -0.3382,
+				"y": 0.5228,
+				"cluster": 8,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.4286
+				}
+			},
+			{
+				"id": 2512,
+				"label": "未成年人犯罪",
+				"x": -0.4160,
+				"y": 0.5681,
+				"cluster": 8,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 9.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.5556
+				}
+			},
+			{
+				"id": 2546,
+				"label": "构成要件",
+				"x": -0.1505,
+				"y": 0.4745,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.1667
+				}
+			},
+			{
+				"id": 2601,
+				"label": "死刑",
+				"x": 0.0931,
+				"y": 1.1376,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000
+				}
+			},
+			{
+				"id": 2664,
+				"label": "污染环境罪",
+				"x": -0.1018,
+				"y": -0.2074,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.4545
+				}
+			},
+			{
+				"id": 2774,
+				"label": "淫秽电子信息",
+				"x": 0.3986,
+				"y": 0.6898,
+				"cluster": 6,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.2500
+				}
+			},
+			{
+				"id": 2779,
+				"label": "渎职犯罪",
+				"x": -0.2946,
+				"y": -0.3015,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.2000
+				}
+			},
+			{
+				"id": 2780,
+				"label": "渎职罪",
+				"x": 0.2195,
+				"y": -0.2458,
+				"cluster": 11,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.6000
+				}
+			},
+			{
+				"id": 2800,
+				"label": "烟草专卖品",
+				"x": 1.1117,
+				"y": 0.1854,
+				"cluster": 13,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.6000
+				}
+			},
+			{
+				"id": 2810,
+				"label": "牵连犯",
+				"x": -0.3826,
+				"y": -0.3199,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.5000
+				}
+			},
+			{
+				"id": 2814,
+				"label": "特定关系人",
+				"x": -0.0133,
+				"y": -0.9915,
+				"cluster": 7,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.8333
+				}
+			},
+			{
+				"id": 2822,
+				"label": "犯罪",
+				"x": 0.2199,
+				"y": 0.8859,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.7500
+				}
+			},
+			{
+				"id": 2823,
+				"label": "犯罪主体",
+				"x": -0.2322,
+				"y": -0.5947,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.5000
+				}
+			},
+			{
+				"id": 2824,
+				"label": "犯罪分子",
+				"x": 0.5893,
+				"y": 0.4471,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.8333
+				}
+			},
+			{
+				"id": 2828,
+				"label": "犯罪圈",
+				"x": -0.0527,
+				"y": 0.7998,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.2857
+				}
+			},
+			{
+				"id": 2833,
+				"label": "犯罪对象",
+				"x": -0.5805,
+				"y": 0.3218,
+				"cluster": 9,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4000
+				}
+			},
+			{
+				"id": 2843,
+				"label": "犯罪数额",
+				"x": -0.6255,
+				"y": -0.2812,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.5000
+				}
+			},
+			{
+				"id": 2879,
+				"label": "环境污染犯罪",
+				"x": -0.1549,
+				"y": -0.3163,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.6667
+				}
+			},
+			{
+				"id": 2882,
+				"label": "环境犯罪",
+				"x": -0.1201,
+				"y": 0.0405,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000
+				}
+			},
+			{
+				"id": 2907,
+				"label": "生产、销售伪劣产品罪",
+				"x": 1.1855,
+				"y": 0.1687,
+				"cluster": 13,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000
+				}
+			},
+			{
+				"id": 2909,
+				"label": "生产安全事故",
+				"x": 0.2949,
+				"y": -0.4362,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.4000
+				}
+			},
+			{
+				"id": 2959,
+				"label": "盗窃罪",
+				"x": -0.3253,
+				"y": 0.3044,
+				"cluster": 8,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.7273
+				}
+			},
+			{
+				"id": 2968,
+				"label": "直接负责的主管人员",
+				"x": 0.1584,
+				"y": -0.2964,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.4000
+				}
+			},
+			{
+				"id": 2977,
+				"label": "知识产权",
+				"x": -0.6735,
+				"y": -0.2823,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.1667
+				}
+			},
+			{
+				"id": 2987,
+				"label": "知识产权犯罪",
+				"x": -0.8246,
+				"y": -0.4657,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000
+				}
+			},
+			{
+				"id": 3002,
+				"label": "破坏计算机信息系统罪",
+				"x": 0.1472,
+				"y": 0.4012,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.0000
+				}
+			},
+			{
+				"id": 3010,
+				"label": "社会危害性",
+				"x": 0.1381,
+				"y": 0.3138,
+				"cluster": 6,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.1818
+				}
+			},
+			{
+				"id": 3043,
+				"label": "移动通讯终端",
+				"x": 0.3711,
+				"y": 0.6558,
+				"cluster": 6,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.2500
+				}
+			},
+			{
+				"id": 3071,
+				"label": "立案追诉标准",
+				"x": 0.1923,
+				"y": -0.7259,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.5000
+				}
+			},
+			{
+				"id": 3077,
+				"label": "立法完善",
+				"x": -0.4566,
+				"y": -0.2218,
+				"cluster": 10,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.5000
+				}
+			},
+			{
+				"id": 3174,
+				"label": "网络犯罪",
+				"x": -0.2697,
+				"y": 0.3374,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.0588
+				}
+			},
+			{
+				"id": 3185,
+				"label": "罚金刑",
+				"x": 0.6238,
+				"y": 0.4198,
+				"cluster": 6,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.0000
+				}
+			},
+			{
+				"id": 3191,
+				"label": "罪刑法定",
+				"x": 0.2592,
+				"y": 0.2738,
+				"cluster": 11,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7143
+				}
+			},
+			{
+				"id": 3192,
+				"label": "罪刑法定原则",
+				"x": 0.2760,
+				"y": 0.1676,
+				"cluster": 4,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.1667
+				}
+			},
+			{
+				"id": 3219,
+				"label": "职务犯罪",
+				"x": -0.0825,
+				"y": -0.7225,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.5000
+				}
+			},
+			{
+				"id": 3251,
+				"label": "著作权",
+				"x": -0.2329,
+				"y": -0.1285,
+				"cluster": 10,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.0000
+				}
+			},
+			{
+				"id": 3265,
+				"label": "行刑衔接",
+				"x": -0.8196,
+				"y": 0.2891,
+				"cluster": 9,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.7143
+				}
+			},
+			{
+				"id": 3270,
+				"label": "行政处罚",
+				"x": -0.6529,
+				"y": 0.1632,
+				"cluster": 9,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.8750
+				}
+			},
+			{
+				"id": 3275,
+				"label": "行政执法",
+				"x": -0.8528,
+				"y": 0.3051,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.2500
+				}
+			},
+			{
+				"id": 3280,
+				"label": "行政犯",
+				"x": -0.7321,
+				"y": 0.2867,
+				"cluster": 9,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.7500
+				}
+			},
+			{
+				"id": 3287,
+				"label": "行政违法",
+				"x": -0.8797,
+				"y": -0.4242,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5000
+				}
+			},
+			{
+				"id": 3474,
+				"label": "追诉时效",
+				"x": 0.5163,
+				"y": 0.0540,
+				"cluster": 4,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.0000
+				}
+			},
+			{
+				"id": 3527,
+				"label": "野生动物",
+				"x": 0.9852,
+				"y": -1.0637,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.4000
+				}
+			},
+			{
+				"id": 3531,
+				"label": "量刑",
+				"x": -0.2434,
+				"y": 0.6048,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5000
+				}
+			},
+			{
+				"id": 3535,
+				"label": "量刑幅度",
+				"x": -0.7400,
+				"y": -0.0740,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.7500
+				}
+			},
+			{
+				"id": 3565,
+				"label": "销售侵权复制品罪",
+				"x": 0.9682,
+				"y": -0.5145,
+				"cluster": 5,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.3750
+				}
+			},
+			{
+				"id": 3566,
+				"label": "销售假冒注册商标的商品罪",
+				"x": 1.2580,
+				"y": -0.5374,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.6000
+				}
+			},
+			{
+				"id": 3616,
+				"label": "集资诈骗",
+				"x": -1.2093,
+				"y": -0.4361,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.2500
+				}
+			},
+			{
+				"id": 3617,
+				"label": "集资诈骗罪",
+				"x": -1.2058,
+				"y": -0.2924,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.1667
+				}
+			},
+			{
+				"id": 3625,
+				"label": "非国家工作人员受贿罪",
+				"x": 0.3305,
+				"y": -0.6531,
+				"cluster": 7,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2009.0000
+				}
+			},
+			{
+				"id": 3636,
+				"label": "非法制造",
+				"x": 1.3369,
+				"y": -0.4838,
+				"cluster": 5,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2007.0000
+				}
+			},
+			{
+				"id": 3640,
+				"label": "非法占有目的",
+				"x": -1.2454,
+				"y": -0.3371,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3333
+				}
+			},
+			{
+				"id": 3643,
+				"label": "非法吸收公众存款罪",
+				"x": -1.2292,
+				"y": -0.2554,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.6000
+				}
+			},
+			{
+				"id": 3653,
+				"label": "非法经营数额",
+				"x": 1.0383,
+				"y": -0.0252,
+				"cluster": 5,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 43.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2008.3571
+				}
+			},
+			{
+				"id": 3654,
+				"label": "非法经营罪",
+				"x": 0.7610,
+				"y": 0.1084,
+				"cluster": 13,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 34.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.4091
+				}
+			},
+			{
+				"id": 3668,
+				"label": "非法集资",
+				"x": -1.1280,
+				"y": -0.3827,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 21.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5238
+				}
+			},
+			{
+				"id": 3669,
+				"label": "非法集资犯罪",
+				"x": -1.0522,
+				"y": -0.3104,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0000
+				}
+			},
+			{
+				"id": 3671,
+				"label": "非犯罪化",
+				"x": -0.0039,
+				"y": 0.9191,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.5000
+				}
+			},
+			{
+				"id": 3711,
+				"label": "黑社会性质组织",
+				"x": 0.5878,
+				"y": 0.8769,
+				"cluster": 12,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 539,
+				"target_id": 1402,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 539,
+				"target_id": 1611,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 539,
+				"target_id": 1932,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 539,
+				"target_id": 2664,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 539,
+				"target_id": 2780,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 539,
+				"target_id": 3174,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 539,
+				"target_id": 3191,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1109,
+				"target_id": 1253,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1109,
+				"target_id": 1778,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1109,
+				"target_id": 1888,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1109,
+				"target_id": 2011,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1109,
+				"target_id": 2013,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1109,
+				"target_id": 2814,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1159,
+				"target_id": 1689,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1159,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1159,
+				"target_id": 1735,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1159,
+				"target_id": 3474,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1162,
+				"target_id": 1398,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1162,
+				"target_id": 3527,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1237,
+				"target_id": 2179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1237,
+				"target_id": 2828,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1237,
+				"target_id": 3671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 1504,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 1694,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 1778,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 1932,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 2011,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 2441,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 2814,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1253,
+				"target_id": 3625,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1305,
+				"target_id": 1308,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1305,
+				"target_id": 3531,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1308,
+				"target_id": 2179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1308,
+				"target_id": 2447,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1349,
+				"target_id": 2292,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1349,
+				"target_id": 2385,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1349,
+				"target_id": 3535,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1349,
+				"target_id": 3617,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1349,
+				"target_id": 3643,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1397,
+				"target_id": 1498,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1397,
+				"target_id": 1935,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1397,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1397,
+				"target_id": 3185,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1397,
+				"target_id": 3192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 1402,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 1405,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 1444,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 1513,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 1575,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 1932,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 1981,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 2843,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 3565,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 3566,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 3636,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1398,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 1405,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 1444,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 1468,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 1513,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 1575,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 1932,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 1981,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 3565,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 3566,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 3636,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 3653,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1402,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 1444,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 1468,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 1513,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 1575,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 1680,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 2054,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 3251,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 3565,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 3566,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 3636,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 3653,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 1405,
+				"target_id": 3654,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1444,
+				"target_id": 1513,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1444,
+				"target_id": 1575,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1444,
+				"target_id": 3565,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1444,
+				"target_id": 3566,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1444,
+				"target_id": 3636,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1444,
+				"target_id": 3653,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1457,
+				"target_id": 1680,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1457,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1457,
+				"target_id": 2441,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1457,
+				"target_id": 2447,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1457,
+				"target_id": 2511,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1457,
+				"target_id": 2512,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1457,
+				"target_id": 2959,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1457,
+				"target_id": 3010,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1468,
+				"target_id": 1504,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1468,
+				"target_id": 1680,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1468,
+				"target_id": 1932,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1468,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1468,
+				"target_id": 2664,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1468,
+				"target_id": 2879,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1468,
+				"target_id": 2909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1468,
+				"target_id": 3174,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1498,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1498,
+				"target_id": 3185,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 1527,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 1672,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 1694,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 2011,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 2123,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 2664,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 2810,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 2879,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 2968,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 3002,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 3625,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 3669,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1504,
+				"target_id": 3711,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1513,
+				"target_id": 2054,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1513,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1513,
+				"target_id": 3565,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1513,
+				"target_id": 3566,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1513,
+				"target_id": 3653,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1513,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1516,
+				"target_id": 2779,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1516,
+				"target_id": 2879,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1527,
+				"target_id": 2013,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1527,
+				"target_id": 2123,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1527,
+				"target_id": 2779,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1527,
+				"target_id": 2909,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1527,
+				"target_id": 2968,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1527,
+				"target_id": 3002,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 1680,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 1981,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 2977,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 3077,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 3251,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 3531,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 3565,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1575,
+				"target_id": 3654,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1594,
+				"target_id": 2987,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1597,
+				"target_id": 1611,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1597,
+				"target_id": 1625,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1597,
+				"target_id": 1669,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1597,
+				"target_id": 1981,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1597,
+				"target_id": 2177,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1597,
+				"target_id": 2179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1597,
+				"target_id": 2286,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1597,
+				"target_id": 3192,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1611,
+				"target_id": 1625,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1611,
+				"target_id": 1680,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1611,
+				"target_id": 1932,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1611,
+				"target_id": 2177,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 1611,
+				"target_id": 2512,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1611,
+				"target_id": 2828,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1611,
+				"target_id": 3174,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1611,
+				"target_id": 3191,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1625,
+				"target_id": 1680,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1637,
+				"target_id": 1932,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1637,
+				"target_id": 2385,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1637,
+				"target_id": 2512,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1637,
+				"target_id": 3270,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1637,
+				"target_id": 3280,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1669,
+				"target_id": 1672,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1669,
+				"target_id": 1981,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1669,
+				"target_id": 2286,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1669,
+				"target_id": 3192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1672,
+				"target_id": 1981,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1672,
+				"target_id": 2977,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1672,
+				"target_id": 3668,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1672,
+				"target_id": 3669,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1680,
+				"target_id": 1932,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1680,
+				"target_id": 1981,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1680,
+				"target_id": 2177,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1680,
+				"target_id": 2833,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1680,
+				"target_id": 3077,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1680,
+				"target_id": 3174,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1680,
+				"target_id": 3251,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1680,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1689,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1689,
+				"target_id": 1735,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1689,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1694,
+				"target_id": 1696,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1694,
+				"target_id": 2011,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1694,
+				"target_id": 2013,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1694,
+				"target_id": 2909,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1694,
+				"target_id": 2968,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1694,
+				"target_id": 3625,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 1735,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 2013,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 2342,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 2909,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 2968,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 3565,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1742,
+				"target_id": 2447,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1742,
+				"target_id": 2822,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1742,
+				"target_id": 3002,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1778,
+				"target_id": 1888,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1778,
+				"target_id": 2011,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1778,
+				"target_id": 2264,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1778,
+				"target_id": 2814,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1814,
+				"target_id": 3077,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1835,
+				"target_id": 1932,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1835,
+				"target_id": 2121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1835,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1835,
+				"target_id": 2441,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1835,
+				"target_id": 2442,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1835,
+				"target_id": 2664,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1835,
+				"target_id": 2882,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1835,
+				"target_id": 3010,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1835,
+				"target_id": 3535,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1888,
+				"target_id": 1932,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1888,
+				"target_id": 2011,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1888,
+				"target_id": 2013,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1888,
+				"target_id": 2121,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1888,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1888,
+				"target_id": 2267,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1888,
+				"target_id": 2441,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1888,
+				"target_id": 2810,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1888,
+				"target_id": 2814,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1921,
+				"target_id": 2264,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1921,
+				"target_id": 2267,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1921,
+				"target_id": 2779,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 2189,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 2353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 2385,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 2441,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 2442,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 2509,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 2664,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 2780,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 2959,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 3010,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 3174,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1932,
+				"target_id": 3191,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1935,
+				"target_id": 2189,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1935,
+				"target_id": 2447,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1935,
+				"target_id": 2774,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1935,
+				"target_id": 3010,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1935,
+				"target_id": 3043,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1935,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1935,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1981,
+				"target_id": 2546,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1981,
+				"target_id": 2833,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1981,
+				"target_id": 2977,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1981,
+				"target_id": 3531,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2011,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2011,
+				"target_id": 2441,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2011,
+				"target_id": 2814,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2011,
+				"target_id": 3625,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2013,
+				"target_id": 2123,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2013,
+				"target_id": 2267,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2013,
+				"target_id": 2780,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2013,
+				"target_id": 2909,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2013,
+				"target_id": 2968,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2013,
+				"target_id": 3071,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2013,
+				"target_id": 3219,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2054,
+				"target_id": 3565,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2121,
+				"target_id": 2179,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2121,
+				"target_id": 2441,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2121,
+				"target_id": 3174,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2121,
+				"target_id": 3270,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 2441,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 2664,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 2774,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 2780,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 2879,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 2968,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 3002,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 3010,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 3043,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 3174,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 3185,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 3535,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 3565,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2123,
+				"target_id": 3654,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 2287,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 2342,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 2509,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 2512,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 2601,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 2822,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 2828,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 2959,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 3671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2177,
+				"target_id": 3711,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2179,
+				"target_id": 2286,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2179,
+				"target_id": 2441,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2179,
+				"target_id": 2828,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2189,
+				"target_id": 2353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2189,
+				"target_id": 2447,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2189,
+				"target_id": 2511,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2189,
+				"target_id": 2546,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2189,
+				"target_id": 2774,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2189,
+				"target_id": 3010,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2189,
+				"target_id": 3043,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2189,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2189,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2264,
+				"target_id": 2267,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2264,
+				"target_id": 2823,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2267,
+				"target_id": 2810,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2267,
+				"target_id": 2823,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2267,
+				"target_id": 3077,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2267,
+				"target_id": 3219,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2286,
+				"target_id": 2882,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2286,
+				"target_id": 3192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2287,
+				"target_id": 2342,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2287,
+				"target_id": 3711,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2292,
+				"target_id": 2843,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2292,
+				"target_id": 3535,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2342,
+				"target_id": 3711,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2353,
+				"target_id": 2546,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2353,
+				"target_id": 2959,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2353,
+				"target_id": 3010,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2441,
+				"target_id": 2447,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2441,
+				"target_id": 2959,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2441,
+				"target_id": 3010,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2441,
+				"target_id": 3535,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2442,
+				"target_id": 2810,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2442,
+				"target_id": 2987,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2442,
+				"target_id": 3010,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2447,
+				"target_id": 2774,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2447,
+				"target_id": 3002,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2447,
+				"target_id": 3010,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2447,
+				"target_id": 3043,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2447,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2447,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2509,
+				"target_id": 2774,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2509,
+				"target_id": 2822,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2509,
+				"target_id": 3043,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2509,
+				"target_id": 3671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2511,
+				"target_id": 2512,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2511,
+				"target_id": 2959,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2664,
+				"target_id": 2823,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2664,
+				"target_id": 2879,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2664,
+				"target_id": 2882,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2664,
+				"target_id": 3192,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2774,
+				"target_id": 3010,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2774,
+				"target_id": 3043,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2774,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2774,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2779,
+				"target_id": 2968,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2779,
+				"target_id": 3270,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2800,
+				"target_id": 2907,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2800,
+				"target_id": 3010,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2800,
+				"target_id": 3653,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2800,
+				"target_id": 3654,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2810,
+				"target_id": 2959,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2824,
+				"target_id": 3010,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2824,
+				"target_id": 3185,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2828,
+				"target_id": 3002,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2828,
+				"target_id": 3174,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2828,
+				"target_id": 3671,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2833,
+				"target_id": 3174,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2833,
+				"target_id": 3280,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2843,
+				"target_id": 2977,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2907,
+				"target_id": 3653,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2907,
+				"target_id": 3654,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2909,
+				"target_id": 2968,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2968,
+				"target_id": 3002,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2977,
+				"target_id": 3077,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2977,
+				"target_id": 3287,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2987,
+				"target_id": 3287,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3002,
+				"target_id": 3174,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3010,
+				"target_id": 3043,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3010,
+				"target_id": 3535,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3010,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3010,
+				"target_id": 3654,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3043,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3043,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3077,
+				"target_id": 3174,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3077,
+				"target_id": 3251,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3174,
+				"target_id": 3531,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3191,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3192,
+				"target_id": 3474,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3265,
+				"target_id": 3270,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3265,
+				"target_id": 3275,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3265,
+				"target_id": 3280,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3270,
+				"target_id": 3280,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3287,
+				"target_id": 3668,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3565,
+				"target_id": 3566,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3565,
+				"target_id": 3625,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3565,
+				"target_id": 3636,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3565,
+				"target_id": 3653,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3565,
+				"target_id": 3654,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3566,
+				"target_id": 3636,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3566,
+				"target_id": 3653,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3616,
+				"target_id": 3668,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3617,
+				"target_id": 3640,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3617,
+				"target_id": 3643,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3617,
+				"target_id": 3668,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3617,
+				"target_id": 3669,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3625,
+				"target_id": 3654,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3636,
+				"target_id": 3653,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3640,
+				"target_id": 3643,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3640,
+				"target_id": 3668,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3640,
+				"target_id": 3669,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3643,
+				"target_id": 3668,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3653,
+				"target_id": 3654,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3668,
+				"target_id": 3669,
+				"strength": 1.0000
+			}
+		]
+	}
+}
